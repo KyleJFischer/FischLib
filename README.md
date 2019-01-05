@@ -21,7 +21,10 @@ This is a project I have been meaning to make for a long time. Its compliation o
 
 
 #### Credits for Data Sets
-English Dictionary = https://github.com/dwyl/english-words
-Passwords = https://github.com/iryndin/10K-Most-Popular-Passwords
-Scrabble = Transcribed from Wiki (https://en.wikipedia.org/wiki/Scrabble_letter_distributions#English)
-Super Scrabble = Same as Scrabble
+
+ - English Dictionary = https://github.com/dwyl/english-words 
+ - Passwords   = https://github.com/iryndin/10K-Most-Popular-Passwords
+ - Scrabble = Transcribed from Wiki   (https://en.wikipedia.org/wiki/Scrabble_letter_distributions#English)
+ - Super Scrabble = Same as Scrabble
+
+
